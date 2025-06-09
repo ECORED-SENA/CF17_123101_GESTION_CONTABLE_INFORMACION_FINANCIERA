@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> identificar los conceptos clave relacionados con los tipos de costos, sistemas de costeo, elaboración del estado de costos y análisis del punto de equilibrio dentro del contexto de la gestión contable y financiera.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,

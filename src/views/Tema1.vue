@@ -75,7 +75,7 @@
                 img(src="@/assets/curso/temas/tema1/7.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Costos indirectos:  
-              p son los costos que se asignan a la producción total, lo cual significa que no hay control ni seguimiento para cada producto, por 
+              p Son los costos que se asignan a la producción total, lo cual significa que no hay control ni seguimiento para cada producto, por 
               p <b>Ejemplo:</b> arrendamiento, mano de obra indirecta, tributos, intereses financieros, etc. 
     
           .row.align-items-center.p-4.p-md-5
@@ -84,7 +84,7 @@
                 img(src="@/assets/curso/temas/tema1/8.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Costos directos:
-              p son los costos identificados, distribuidos y controlados para cada unidad producida, como la materia prima e insumos que hacen parte del producto. 
+              p Son los costos identificados, distribuidos y controlados para cada unidad producida, como la materia prima e insumos que hacen parte del producto. 
 
     .row.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-1 
@@ -170,8 +170,8 @@
             .col-lg-auto
               img(src="@/assets/curso/temas/tema1/14.svg", style="max-width: 90px").mx-auto
             .col-lg
-              h5 Ejemplo
-              p.mb-0 El 15 de enero de 20XX, la empresa EL SOL, realizó un pedido a la compañía LUNA, que consistía en la fabricación de una sala de juntas la cual consta de 1 mesa y 4 sillas hechas a medida. La entrega será a más tardar el 30 de enero de 20XX”.
+              h5 Ejemplo:
+              p.mb-0 El 15 de enero de 20XX, la empresa EL SOL, realizó un pedido a la compañía LUNA, que consistía en la fabricación de una sala de juntas, la cual consta de 1 mesa y 4 sillas hechas a medida. La entrega será a más tardar el 30 de enero de 20XX”.
         p.mb-0 En primer lugar, el departamento de compras realiza:
     
     .row.justify-content-center.mb-5
@@ -186,7 +186,11 @@
                 img(src='@/assets/curso/temas/tema1/15.svg', alt='Texto que describa la imagen')
 
           h4.text-center.bg-color-29.p-3 Compra de materiales
-          p.mb-0.text-center Total: $110.000 20 láminas de madera: $100.000 100 galones de pintura: $5.000 15 cajas de pegamento: $3.000 5 cajas de clavos: $2.000
+          p.mb-0.text-center Total: $110.000 
+          p.mb-0.text-center •20 láminas de madera: $100.000 
+          p.mb-0.text-center •100 galones de pintura: $5.000 
+          p.mb-0.text-center •15 cajas de pegamento: $3.000 
+          p.mb-0.text-center •5 cajas de clavos: $2.000
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
@@ -199,7 +203,11 @@
                 img(src='@/assets/curso/temas/tema1/16.svg', alt='Texto que describa la imagen')
 
           h4.text-center.bg-color-29.p-3 Consumo de materiales
-          p.mb-0.text-center Total: $36.000 5 láminas de madera: $25.000 10 galones de pintura: $5.000 Pegamento: $2.000 Clavos: $4.000
+          p.mb-0.text-center Total: $36.000 
+          p.mb-0.text-center •5 láminas de madera: $25.000 
+          p.mb-0.text-center •10 galones de pintura: $5.000 
+          p.mb-0.text-center •2 cajas de Pegamento: $2.000 
+          p.mb-0.text-center •2 cajas de Clavos: $4.000
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -223,7 +231,9 @@
                 img(src='@/assets/curso/temas/tema1/18.svg', alt='Texto que describa la imagen')
 
           h4.text-center.bg-color-29.p-3 Costo de mano de obra
-          p.mb-0.text-center Total: $45.000 Mano de obra directa: $35.000 Mano de obra indirecta: $10.000
+          p.mb-0.text-center Total: $45.000 
+          p.mb-0.text-center •Mano de obra directa: $35.000 
+          p.mb-0.text-center •Mano de obra indirecta: $10.000
     
     .bg-color-34.tarjeta.mb-5
       .px-4.px-md-5.py-4
@@ -711,7 +721,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/21.svg', alt='Tabla con el formato de requisición de materiales que contiene campos para datos de la empresa, número de requisición, orden de producción, fecha, departamento, códigos y descripciones de materia prima, unidad de medida, cantidad, valor unitario, valor total, y secciones para firmas de solicitud, entrega, kardex y recibido. ')
       .py-3.py-md-4(titulo="Kardex").bg-color-33.p-5
-        p.mb-5 formato utilizado para el control de la materia prima directa adquirida para los diferentes bienes a producir, en el cual se identifica el producto con su referencia, cantidades mínimas, cantidades máximas, localización, proveedores de dicha materia prima, y espacios específicos para fecha, descripción, cantidades y valores de entrada, cantidades y valores de salida, y saldos en cantidades y valores que soportan los valores de las cuentas de inventario que arroje la contabilidad.
+        p.mb-5 Formato utilizado para el control de la materia prima directa adquirida para los diferentes bienes a producir, en el cual se identifica el producto con su referencia, cantidades mínimas, cantidades máximas, localización, proveedores de dicha materia prima, y espacios específicos para fecha, descripción, cantidades y valores de entrada, cantidades y valores de salida, y saldos en cantidades y valores que soportan los valores de las cuentas de inventario que arroje la contabilidad.
         .titulo-sexto.color-acento-contenido
           h5 Figura 4.
           span Ejemplo de formato Kardex.
@@ -744,16 +754,16 @@
             tbody.bg-color-white
               tr
                 td Presupuesto de ventas
-                td 48.000
+                td $48.000
               tr
                 td Inventario final
-                td 2.000
+                td $2.000
               tr
                 td Inventario inicial
                 td -
               tr
                 td Presupuesto de compra/producción PR
-                td 50.000
+                td $50.000
     
     p.mb-5 Con base en el presupuesto de ventas y en la información de la ficha técnica, se presupuestan materias primas requeridas, y así se proyecta el precio de compra, por medio de las cotizaciones, eligiendo al proveedor que se ajuste a los requerimientos y calidades de materias primas:
 
@@ -780,24 +790,24 @@
                 td Gramos
                 td 4
                 td 200
-                td 2.500.000
-                td 10.000.000
+                td $2.500.000
+                td $10.000.000
               tr
                 td Arroz
                 td 100
                 td Gramos
                 td 4,4
                 td 440
-                td 5.000.000
-                td 22.000.000
+                td $5.000.000
+                td $22.000.000
               tr
                 td Huevo
                 td 0,25
                 td Unidad
                 td 350
                 td 87,5
-                td 12.500
-                td 4.375.000
+                td $12.500
+                td $4.375.000
               tr
                 td Total MPD proyectado
                 td -
@@ -805,7 +815,7 @@
                 td -
                 td 727,5
                 td -
-                td 36.375.000
+                td $36.375.000
     
     .row.justify-content-center
       .col-lg-5.mb-3.mb-lg-0
@@ -910,25 +920,25 @@
                 tbody.bg-color-white
                   tr
                     td ARL
-                    td 0,52%
+                    td 0,52 %
                   tr
                     td EPS
-                    td 0,00%
+                    td 0,00 %
                   tr
                     td Fondo de pensiones (FP)
-                    td 12%
+                    td 12 %
                   tr
                     td Caja de compensación (CC)
-                    td 4%
+                    td 4 %
                   tr
                     td ICBF
-                    td 0,00%
+                    td 0,00 %
                   tr
                     td SENA
-                    td 0,00%
+                    td 0,00 %
                   tr
                     td Total aportes
-                    td 16,52%
+                    td 16,52 %
           div(titulo="Prestaciones sociales").px-5
             .titulo-sexto.color-acento-contenido
               h5 Tabla 17.
@@ -942,19 +952,19 @@
                 tbody.bg-color-white
                   tr
                     td Cesantías
-                    td 8,33%
+                    td 8,33 %
                   tr
                     td Interés sobre cesantías
-                    td 1,00%
+                    td 1,00 %
                   tr
                     td Prima de servicios
-                    td 8,33%
+                    td 8,33 %
                   tr
                     td Vacaciones
-                    td 4,17%
+                    td 4,17 %
                   tr
                     td Total prestaciones
-                    td 21,83%
+                    td 21,83 %
     
     p.mb-5 A continuación, se aplica la proyección de la mano de obra directa requerida para el proceso de producción mensual, estableciendo tiempos por cada proceso, costo de la mano de obra directa y número de operarios requeridos para la producción.
 
@@ -1323,7 +1333,7 @@
             img(src='@/assets/curso/temas/tema1/29.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") Una vez la empresa tiene la orden de producción organizada por cliente, cotiza las materias primas requeridas, compra las materias primas al proveedor seleccionado, las reconoce contablemente ajustándose al sistema de costeo por órdenes de producción y a las normas legales vigentes, y hace el respectivo registro en la hoja Kardex, tanto en la compra de la mercancía como en el consumo de la misma en el área producción, con sus respectivos soportes, con lo cual se cargará a cada orden de producción por cada uno de los clientes. 
+            p.mb-0(data-aos="fade-up") Una vez que la empresa tiene la orden de producción organizada por cliente, cotiza las materias primas requeridas, compra las materias primas al proveedor seleccionado, las reconoce contablemente ajustándose al sistema de costeo por órdenes de producción y a las normas legales vigentes, y hace el respectivo registro en la hoja Kardex, tanto en la compra de la mercancía como en el consumo de la misma en el área de producción, con sus respectivos soportes, con lo cual se cargará a cada orden de producción por cada uno de los clientes. 
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 6.
@@ -1506,19 +1516,19 @@
         p.mb-0 A continuación, se ilustra la liquidación de la nómina en sus diferentes secciones, para un operario de mano de obra directa y un operario de mano de obra indirecta.
     
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-11")
-      div(titulo="Sección de devengado.").px-5
+      div(titulo="Sección de devengado").px-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 14.
           span Sección de devengado
         figure
           img(src="@/assets/curso/temas/tema1/39.svg", alt="Tabla de la sección de devengado de la nómina de septiembre de 2020 que contiene datos de identificación del trabajador, sueldo básico, horas extras, comisiones, auxilio de transporte, otros conceptos y total devengado. ")
-      div(titulo="Sección de deducciones y neto a pagar.").px-5
+      div(titulo="Sección de deducciones y neto a pagar").px-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 15.
           span Sección de deducciones y neto a pagar
         figure
           img(src="@/assets/curso/temas/tema1/40.svg", alt="Tabla de la sección de deducciones y neto a pagar que incluye aportes a salud y pensión, retención en la fuente, préstamos, otras deducciones, total deducciones y valor neto pagado al trabajador. ")
-      div(titulo="Sección de devengado.").px-5
+      div(titulo="Sección de prestaciones sociales").px-5
         .row.justify-content-center
           .col-lg-10
             .titulo-sexto.color-acento-contenido
@@ -1526,7 +1536,7 @@
               span Sección de prestaciones sociales
             figure
               img(src="@/assets/curso/temas/tema1/41.svg", alt="Tabla de la sección de prestaciones sociales que detalla los porcentajes aplicables y valores correspondientes a cesantías, intereses sobre cesantías, prima y vacaciones, con base de cálculo y totales por cada concepto. ")
-      div(titulo="Sección de devengado.").px-5
+      div(titulo="Sección de aportes a seguridad social y parafiscales").px-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 17.
           span Sección de aportes a seguridad social y parafiscales
@@ -1540,7 +1550,7 @@
             img(src='@/assets/curso/temas/tema1/43.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") En los costos de la mano de obra directa, se requiere establecer el promedio de días laborados teniendo en cuenta que los dominicales y festivos no son laborales, por tanto, a los días del año se le deben restar los dominicales y festivos y a ese resultado lo dividimos entre 12 para obtener los días laborados promedio mes. Luego se toma el total pagado al trabajador, donde incluimos lo devengado más la carga prestacional, los aportes a seguridad social y parafiscales a cargo de la empresa, y el resultado obtenido se divide entre los días promedio trabajados en el mes, y así se obtiene el costo día; el resultado obtenido lo dividimos en 8 horas y obtenemos el valor de la hora hombre, y este resultado lo dividimos entre 60 minutos para obtener el valor minuto de mano de obra directa.
+            p.mb-0(data-aos="fade-up") En los costos de la mano de obra directa, se requiere establecer el promedio de días laborados teniendo en cuenta que los dominicales y festivos no son laborales, por tanto, a los días del año se les deben restar los dominicales y festivos y a ese resultado lo dividimos entre 12 para obtener los días laborados promedio mes. Luego se toma el total pagado al trabajador, donde incluimos lo devengado más la carga prestacional, los aportes a seguridad social y parafiscales a cargo de la empresa, y el resultado obtenido se divide entre los días promedio trabajados en el mes, y así se obtiene el costo día; el resultado obtenido lo dividimos en 8 horas y obtenemos el valor de la hora hombre, y este resultado lo dividimos entre 60 minutos para obtener el valor minuto de mano de obra directa.
     
     .bg-full-width.bg-color-37
       .px-4.px-md-5.pb-md-3
@@ -1574,81 +1584,81 @@
                     td ZZ
                     td 11
                     td 1
-                    td $ 877.657
+                    td $877.657
                     td 30
-                    td $ 877.657
+                    td $877.657
                   tr
                     td 47
                     td SS
                     td 11
                     td 1
-                    td $ 877.657
+                    td $877.657
                     td 30
-                    td $ 877.657
+                    td $877.657
                   tr
                     td 49
                     td UU
                     td 11
                     td 1
-                    td $ 877.657
+                    td $877.657
                     td 30
-                    td $ 877.657
+                    td $877.657
                   tr
                     td 51
                     td PP
                     td 11
                     td 1
-                    td $ 877.657
+                    td $877.657
                     td 30
-                    td $ 877.657
+                    td $877.657
                   tr
                     td 53
                     td RR
                     td 11
                     td 1
-                    td $ 877.657
+                    td $877.657
                     td 30
-                    td $ 877.657
+                    td $877.657
                   tr
                     td 55
                     td MM
                     td 11
                     td 1
-                    td $ 877.657
+                    td $877.657
                     td 30
-                    td $ 877.657
+                    td $877.657
                   tr
                     td 57
                     td NN
                     td 11
                     td 1
-                    td $ 877.657
+                    td $877.657
                     td 30
-                    td $ 877.657
+                    td $877.657
                   tr
                     td 59
                     td LL
                     td 11
                     td 1
-                    td $ 877.657
+                    td $877.657
                     td 30
-                    td $ 877.657
+                    td $877.657
                   tr
                     td 61
                     td ÑÑ
                     td 11
                     td 1
-                    td $ 877.657
+                    td $877.657
                     td 30
-                    td $ 877.657
+                    td $877.657
                   tr
                     td 63
                     td HH
                     td 11
                     td 1
-                    td $ 877.657
+                    td $877.657
                     td 30
-                    td $ 877.657
+                    td $877.657
 
         .row.justify-content-center.mb-5
           .col-lg-10(data-aos="fade-down")
@@ -1999,7 +2009,7 @@
     
     p Posteriormente, el departamento de contabilidad, con la información del control de tiempo que le suministra el jefe de producción, registrará en cada orden de producción el costo de la mano de obra directa realmente trabajada al momento de capitalizar la cuenta control de producción al inventario de productos en proceso.
     p Compra y/o traslado de los insumos de producción, liquidación de la mano de obra indirecta y cargo de los otros costos indirectos de fabricación, junto con su reconocimiento.
-    p.mb-5 Uno de los procesos más dispendiosos en el tratamiento contable son los costos indirectos de fabricación, por su complejidad en la medición y en la distribución a cada orden de producción, por lo que las industrias han optado establecer una tasa predeterminada de costos indirectos de fabricación, la cual se pueden determinar teniendo en cuenta factores como costo materia prima directa,  costo mano de obra directa, costo primo de producción, horas hombre, horas máquina y unidades producidas entre otros inductores.
+    p.mb-5 Uno de los procesos más dispendiosos en el tratamiento contable son los costos indirectos de fabricación, por su complejidad en la medición y en la distribución a cada orden de producción, por lo que las industrias han optado por establecer una tasa predeterminada de costos indirectos de fabricación, la cual se pueden determinar teniendo en cuenta factores como costo de materia prima directa,  costo de mano de obra directa, costo primo de producción, horas hombre, horas máquina y unidades producidas entre otros inductores.
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-11")
       div(titulo="Compra de insumos").px-5
@@ -2624,10 +2634,10 @@
       p.mb-0 Reconocimiento de las facturas de servicios públicos pendientes para poder cerrar la cuenta de control de costos indirectos de fabricación.
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-11")
-      div(titulo="Factura de Venta de Servicio de Energía").px-5
+      div(titulo="Factura de venta de servicio de energía").px-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 22.
-          span Factura de Venta de Servicio de Energía
+          span Factura de venta de servicio de energía
         figure.mb-5
           img(src="@/assets/curso/temas/tema1/48.svg", alt="Factura de venta del servicio de energía emitida por ENEL Codensa a Empanadazo LTDA, que incluye fecha de emisión, concepto del servicio prestado durante septiembre de 2020, valor subtotal, IVA y total a pagar.  ")
       
@@ -2688,10 +2698,10 @@
                 td 22
                 td -
                 td $300.000
-      div(titulo="Factura de Venta de Servicio de Gas Natural").px-5
+      div(titulo="Factura de venta de servicio de gas natural").px-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 24.
-          span Factura de Venta de Servicio de Gas Natural
+          span Factura de Venta de servicio de gas natural
         figure.mb-5
           img(src="@/assets/curso/temas/tema1/50.svg", alt="Factura de venta del servicio de gas natural emitida a Empanadazo LTDA, con fecha de emisión, detalle del servicio correspondiente al mes de septiembre de 2020, valor subtotal, IVA y total a pagar.")
       
@@ -2721,10 +2731,10 @@
                 td -
                 td $600.000
 
-      div(titulo="Factura de Servicio: CLARO").px-5
+      div(titulo="Factura de servicio: CLARO").px-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 25.
-          span Factura de Servicio: CLARO
+          span Factura de servicio: CLARO
         figure.mb-5
           img(src="@/assets/curso/temas/tema1/51.svg", alt="Factura de servicio telefónico emitida por Claro a Empanadazo LTDA, correspondiente al periodo del 1 al 30 de septiembre de 2020, que incluye valor subtotal, IVA y total a pagar. ")
       
@@ -3070,15 +3080,16 @@
               ul.lista-ul--color.mb-0
                 li.mb-3.d-flex.bg-color-white.p-3.tarjeta
                   i.fas.fa-chevron-right
-                  p.mb-0 <b>Materiales</b> $4.000.000 
+                  p.mb-0 <b>Materiales:</b> $4.000.000 
                 li.mb-3.d-flex.bg-color-white.p-3.tarjeta
                   i.fas.fa-chevron-right
-                  p.mb-0 <b>Mano de obra</b> $2.000.000 
+                  p.mb-0 <b>Mano de obra:</b> $2.000.000 
                 li.mb-3.d-flex.bg-color-white.p-3.tarjeta
                   i.fas.fa-chevron-right
-                  p.mb-0 <b>Costos indirectos de fabricación</b> $500.000
+                  p.mb-0 <b>Costos indirectos de fabricación:</b> $500.000
         .bg-color-9.p-4.tarjeta(data-aos="fade-left")
-            p.mb-0 A finalizar el mes de mayo, se terminaron 2.000 unidades y se trasladaron al departamento 2.
+            p.mb-0 A finalizar el mes de mayo, se terminaron 2.000 unidades y se trasladaron al departamento 2. 
+            p.mb-2    
             p.mb-0 Los costos por procesos buscan determinar qué parte de los $4.000.000 de materiales, $2.000.000 de mano de obra y $500.000 de costos indirectos de fabricación, se aplicaron a las 2.000 unidades producidas y transferidas al departamento 2. Por lo tanto, cada departamento deberá preparar un informe sobre el costo de producción.
     
     p.mb-5 Este sistema de costos es apropiado para las entidades que están estructuradas por departamentos, como la ensambladora de vehículos.
@@ -3102,7 +3113,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/66.svg", data-aos="zoom-in")
       .col-lg-7.order-1.mb-3.mb-lg-0
-        p(data-aos="fade-left") El sistema de costos basados en actividades propende por la división de las diferentes actividades necesarias para una mejor asignación de los costos indirectos de fabricación a los productos fabricados en la empresa. El análisis de los beneficios prevé una nueva perspectiva para el examen del comportamiento de los costos indirectos de fabricación. Elimina desperdicios y actividades que no agregan valor al producto.
+        p(data-aos="fade-left") El sistema de costos basado en actividades propende por la división de las diferentes actividades necesarias para una mejor asignación de los costos indirectos de fabricación a los productos fabricados en la empresa. El análisis de los beneficios prevé una nueva perspectiva para el examen del comportamiento de los costos indirectos de fabricación. Elimina desperdicios y actividades que no agregan valor al producto.
         .row.justify-content-center
           .col-lg-1
           .col-lg-7
@@ -3170,22 +3181,22 @@
           ul.lista-ul--color.mb-0
             li.mb-0.d-flex
               i.fas.fa-chevron-right
-              p.mb-0 Compras  
+              p.mb-0 Compras.  
             li.mb-0.d-flex
               i.fas.fa-chevron-right
-              p.mb-0 Ventas
+              p.mb-0 Ventas.
             li.mb-0.d-flex
               i.fas.fa-chevron-right
-              p.mb-0 Finanzas
+              p.mb-0 Finanzas.
             li.mb-0.d-flex
               i.fas.fa-chevron-right
-              p.mb-0 Personal  
+              p.mb-0 Personal.  
             li.mb-0.d-flex
               i.fas.fa-chevron-right
-              p.mb-0 Investigación 
+              p.mb-0 Investigación. 
             li.mb-0.d-flex
               i.fas.fa-chevron-right
-              p.mb-0 Planeación
+              p.mb-0 Planeación.
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
         //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
