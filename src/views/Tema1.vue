@@ -140,10 +140,7 @@
     
     p.mb-5 Después de identificar los diferentes tipos de costos, ahora es momento de continuar con los sistemas de costos. Es valioso tener clara la definición y los objetivos de los sistemas de costos que se relacionan a continuación.
 
-    figure
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
+   
     separador
 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -160,7 +157,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/d4wLIV8CsJM?si=LkLhFdCCuvKY2aO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.mb-5
       .col-lg-10
